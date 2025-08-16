@@ -1,6 +1,0 @@
-Scrape the website https://www.morningstar.in/stocks/0p0000c2h4/nse-vodafone-idea/overview.aspx
-
-1. Total revenue since March 2021
-2. Is the profit margin getting better or worse
-3. Cash flow available as of 2025
-4. What is the sector and Industry of this company
