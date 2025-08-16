@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+pandas
+numpy
+matplotlib
+requests
+beautifulsoup4
+pdfplumber
+langchain
+langchain-google-genai
+langchain-core
